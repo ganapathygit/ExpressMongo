@@ -1,0 +1,7 @@
+{
+"username": "GG",
+  "phone": "7685674356",
+  "email": "gg45@gmail.com",
+  "from" : "Bangalore",
+  "to": "Chennai"
+}
